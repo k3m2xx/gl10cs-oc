@@ -40,8 +40,7 @@ This repo includes multiple EFI configuations for different macOS Versions.
 
 | EFI               | Description                                                               | Type      |
 | ----------------- | ------------------------------------------------------------------------- | --------- |
-| `EFI`             | Supports macOS Monterey, Ventura, Sonoma & Sequoia (using Airportitlwm)   | `Stable`  |
-| `EFI - HeliPort`  | Supports every macOS Version except Ventura, Require HeliPort app         | `Stable`  |
+| `EFI`             | Supports macOS Monterey, Ventura, Sonoma & Sequoia                        | `Stable`  |
 
 <a href="https://github.com/OpenIntelWireless/HeliPort/releases"><strong>
 Download HeliPort app »</strong></a>
